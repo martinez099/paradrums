@@ -1,2 +1,2 @@
 # paradrums
-A parametric drum synthesizer
+A parametric drum synthesizer implemented in Java.
